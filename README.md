@@ -1,4 +1,4 @@
-    README For my  webside
+    README For my webside
 
 The website is about JAMS Corner it a music Lodge which is located in Orlando West it's known for it s Good Food, live music and attracting tourist to experience the Township.
 
